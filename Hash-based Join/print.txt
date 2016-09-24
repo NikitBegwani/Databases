@@ -1,0 +1,124 @@
+Total number of available pages:  3
+Number of buckets in hash table:  2
+Size of rel1:  3
+Size of rel1:  3
+Hashing Round :  1
+----reading relation 1:-------
+Tuple :20
+Mapped to bucket: 0
+Tuple :52
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :20
+Mapped to bucket: 0
+Tuple :52
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :20Mapped to bucket: 0
+Done with relation1:
+Created following files:
+in1.txt.r1.b0.txt
+----reading relation 2:------
+Tuple :10
+Mapped to bucket: 0
+Tuple :10
+Mapped to bucket: 0
+Tuple :30
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :10
+Mapped to bucket: 0
+Tuple :30
+Mapped to bucket: 0
+Tuple :10
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :30
+Mapped to bucket: 0
+Tuple :30Mapped to bucket: 0
+Done with relation2:
+Created following files:
+in2.txt.r1.b0.txt
+Size of rel1:  3
+Size of rel1:  3
+Hashing Round :  2
+----reading relation 1:-------
+Tuple :20
+Mapped to bucket: 0
+Tuple :52
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :20
+Mapped to bucket: 0
+Tuple :52
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :20
+Mapped to bucket: 0
+Done with relation1:
+Created following files:
+in1.txt.r1.b0.txt.r2.b0.txt
+----reading relation 2:------
+Tuple :10
+Mapped to bucket: 0
+Tuple :10
+Mapped to bucket: 0
+Tuple :30
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :10
+Mapped to bucket: 0
+Tuple :30
+Mapped to bucket: 0
+Tuple :10
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :30
+Mapped to bucket: 0
+Tuple :30
+Mapped to bucket: 0
+Done with relation2:
+Created following files:
+in2.txt.r1.b0.txt.r2.b0.txt
+Size of rel1:  3
+Size of rel1:  3
+Hashing Round :  3
+----reading relation 1:-------
+Tuple :20
+Mapped to bucket: 0
+Tuple :52
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :20
+Mapped to bucket: 0
+Tuple :52
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :20
+Mapped to bucket: 0
+Done with relation1:
+Created following files:
+in1.txt.r1.b0.txt.r2.b0.txt.r3.b0.txt
+----reading relation 2:------
+Tuple :10
+Mapped to bucket: 0
+Tuple :10
+Mapped to bucket: 0
+Tuple :30
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :10
+Mapped to bucket: 0
+Tuple :30
+Mapped to bucket: 0
+Tuple :10
+Mapped to bucket: 0
+Page for bucket 0 full -- Flushed to secondary storage
+Tuple :30
+Mapped to bucket: 0
+Tuple :30
+Mapped to bucket: 0
+Done with relation2:
+Created following files:
+in2.txt.r1.b0.txt.r2.b0.txt.r3.b0.txt
+Sorry :( can't perform hash-join with3 rounds
